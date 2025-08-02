@@ -40,4 +40,5 @@ How can we perform efficient inference and learning in directed probabilistic mo
 
 ## References
 - [VAE Paper: Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114)
-- [PyTorch-VAE](https://github.com/AntixK/PyTorch-VAE/tree/master?tab=readme-ov-file)
+- [PyTorch-VAE](https://github.com/AntixK/PyTorch-VAE)
+- [Pytorch-VAE-tutorial](https://github.com/Jackson-Kang/Pytorch-VAE-tutorial)

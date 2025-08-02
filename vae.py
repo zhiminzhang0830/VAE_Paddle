@@ -24,7 +24,6 @@ class Encoder(paddle.nn.Layer):
         self.FC_mean = paddle.nn.Linear(in_features=128, out_features=128)
         self.FC_var = paddle.nn.Linear(in_features=128, out_features=128)
         self.LeakyReLU = paddle.nn.LeakyReLU(negative_slope=0.2)
-        self.training = True
 
         modules = []
         modules.append(
